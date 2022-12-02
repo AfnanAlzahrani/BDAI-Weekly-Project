@@ -57,11 +57,16 @@ TripAdvisor European restaurants dataset from Kaggle, It consists of  1083397 ro
 
 ## Building a Model 
 
+We used three models: decision tree, random forest and logistic regrassion.
+we used the following measures: accuracy, F1 Score, weighted recall and weighted precision.
+
 ## Model Evaluation
+
+Based on the measures we observed that all three classifiers had a similar accuracy but the Decision tree is the best model.
 
 ## Resources
 
-https://www.kaggle.com/code/stefanoleone992/tripadvisor-european-restaurants-eda/data
+The data : https://www.kaggle.com/code/stefanoleone992/tripadvisor-european-restaurants-eda/data
 
 ## :octocat:	Team Memebers
 
