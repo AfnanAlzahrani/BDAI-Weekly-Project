@@ -4,12 +4,13 @@
 <img src="https://drive.google.com/uc?export=view&id=13Mel-yO67So16PUPu3yFasJmweaOjq7P"/>
 
 ## :round_pushpin: Table of contents
-> * [Data Review](#)
-> * [Preprocessing](#)
-> * [EDA](#)
-> * [Building a Model ](#)
-> * [Model Evaluation](#)
-> * [Resources](#)
+> * [Data Review](#data-review)
+> * [Columns](#columns)
+> * [Preprocessing](#preprocessing)
+> * [EDA](#eda)
+> * [Building a Model ](#building-a-model)
+> * [Model Evaluation](#model-evaluation)
+> * [Resources](#resources)
 > * [Team Memebers](#octocatteam-memebers)
 
 ## Data Review
